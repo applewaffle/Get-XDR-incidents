@@ -1,0 +1,8 @@
+{
+	"cust_name": "<customer name>",
+	"cust_id": "<defined customer id>",
+	"api_key": "<advanced api key>",
+	"api_key_id": "<advanced api key id>",
+	"api_url": "https://api-<customer>.xdr.us.paloaltonetworks.com",
+	"last_incident": "<leave blank or seed with latest incident id>"
+}
