@@ -24,7 +24,10 @@ This can be run for all customers via cronjob by sourcing the execution wrapper 
 
 Running in a virtualenv to ensure appropriate versions across runs
 
-virtualenv -p "$(which python3)" 
+virtualenv -p "$(which python3)"
+
 source /bin/activate
+
 pip install --upgrade pip
+
 pip install -r requirements.txt
